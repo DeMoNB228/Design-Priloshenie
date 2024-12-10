@@ -1,5 +1,5 @@
 #  Дизайн мобильного приложения
-[https://www.figma.com/design/aCQihqQhR7q1WD5RLi5b57/Android-Material-You-UI-Kit-(Free)-(Community)-1000?m=auto&t=cCWK8AvDyOTtwQRa-6](https://www.figma.com/design/aCQihqQhR7q1WD5RLi5b57/Priloshenie?m=auto&t=cCWK8AvDyOTtwQRa-6)
+https://www.figma.com/design/aCQihqQhR7q1WD5RLi5b57/Priloshenie?m=auto&t=cCWK8AvDyOTtwQRa-6
 
 #  Общая характеристика
 Название приложения:"Мой дом"
